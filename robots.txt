@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://datanoisetv.github.io/picoadk.io/sitemap.xml
