@@ -2,9 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "PicoADK",
     "description": "",
-    "home_page_url": "https://datanoisetv.github.io/picoadk.io",
-    "feed_url": "https://datanoisetv.github.io/picoadk.io/feed.json",
+    "home_page_url": "https://picoadk.io",
+    "feed_url": "https://picoadk.io/feed.json",
     "user_comment": "",
+    "icon": "https://picoadk.io/media/website/Datanoise_Logo_BlackBGWhiteBorder.jpg",
     "author": {
         "name": "Datanoise"
     },

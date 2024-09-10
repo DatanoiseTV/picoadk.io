@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://datanoisetv.github.io/picoadk.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://picoadk.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://datanoisetv.github.io/picoadk.io/</loc>
+<loc>https://picoadk.io/</loc>
 </url>
 <url>
-<loc>https://datanoisetv.github.io/picoadk.io/picoadk-audio-development-kit.html</loc>
+<loc>https://picoadk.io/picoadk-audio-development-kit.html</loc>
 <lastmod>2024-09-10T12:01:53+02:00</lastmod>
 <image:image>
-<image:loc>https://datanoisetv.github.io/picoadk.io/media/posts/2/221370659-aa833624-9984-4085-a3ed-c0e76640e920.png</image:loc>
+<image:loc>https://picoadk.io/media/posts/2/221370659-aa833624-9984-4085-a3ed-c0e76640e920.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://datanoisetv.github.io/picoadk.io/media/posts/2/PicoADK_v2_Advert.png</image:loc>
+<image:loc>https://picoadk.io/media/posts/2/PicoADK_v2_Advert.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
